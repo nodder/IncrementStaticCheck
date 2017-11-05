@@ -1,4 +1,4 @@
-#IncrementStaticCheck CI代码静态检查工具
+# IncrementStaticCheck CI代码静态检查工具
 
 ## 程序功能：
 
@@ -61,7 +61,7 @@
 
 
 
-#IncrementStaticCheckLocal 本地代码静态检查工具
+# IncrementStaticCheckLocal 本地代码静态检查工具
 
 
 
